@@ -3,8 +3,7 @@
 }
 
 html{
-    font-size: 1rem;
-    height: 100%;
+    scroll-behavior: smooth
 }
 
 body,header,main,footer{
@@ -15,7 +14,7 @@ body,header,main,footer{
 
 body{
     background-color: rgba(239, 241, 241, 0.911);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'roboto', sans-serif;
 }
 
 header{
